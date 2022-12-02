@@ -5,5 +5,5 @@
 id_dataset_dict = {'NLP_VOCAB_BUILDER' : {'PATH': "datasets/WSJ_02-21.pos", # The path relative to the main repository, not including the starting slash.
                                           'NAME': "Wall Street Journal tagged dataset",
                                           'DESCR': "A tagged dataset taken from the Wall Street Journal for Educational purposes."
-                              },                   
+                                          },                   
                   }
