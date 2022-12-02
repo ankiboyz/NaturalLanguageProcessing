@@ -9,12 +9,3 @@ id_dataset_dict = {'NLP_VOCAB_BUILDER' : {'PATH': "datasets/WSJ_02-21.pos", # Th
                               },
                    
                   }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Co
